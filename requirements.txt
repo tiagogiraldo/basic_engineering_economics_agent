@@ -1,0 +1,12 @@
+--find-links https://download.pytorch.org/whl/cpu
+torch
+transformers
+timm
+accelerate
+gradio
+langchain
+langchain-core
+langchain-ollama
+langgraph
+typing
+git+https://github.com/tiagogiraldo/engineconomics.git
